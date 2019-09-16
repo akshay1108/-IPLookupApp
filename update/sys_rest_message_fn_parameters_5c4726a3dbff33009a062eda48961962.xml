@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>ipaddress</name>
+        <rest_message_function display_value="GetIPInfo">a9a3ae2bdbbf33009a062eda4896193e</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 09:52:14</sys_created_on>
+        <sys_id>5c4726a3dbff33009a062eda48961962</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ipaddress</sys_name>
+        <sys_package display_value="IPLookup" source="x_378456_iplookup">a853ea2bdbbf33009a062eda489619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a853ea2bdbbf33009a062eda489619f0</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_5c4726a3dbff33009a062eda48961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-16 12:44:08</sys_updated_on>
+        <type>string</type>
+        <value>8.8.8.8</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
